@@ -1,0 +1,14 @@
+body{
+    background: #3F384C;
+}
+
+.nav-inicio{
+    text-align: right; margin: 10px;
+    padding-right: 60px;
+}
+
+.enlace-inicio{
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+}
